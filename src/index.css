@@ -1,0 +1,12 @@
+.canvas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+canvas {
+  border: 1px dashed #00c853;
+}
